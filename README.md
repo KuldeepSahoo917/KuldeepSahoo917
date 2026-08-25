@@ -116,9 +116,6 @@ My goal is to become a strong **Cloud and DevOps Engineer** capable of designing
 
 ---
 
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -131,14 +128,6 @@ My goal is to become a strong **Cloud and DevOps Engineer** capable of designing
     width="49%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepSahoo917&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=E5E7EB&sideLabels=C4B5FD&dates=9CA3AF&stroke=312E81"
     alt="Kuldeep Sahoo GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepSahoo917&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB"
-    alt="Kuldeep Sahoo Top Languages"
   />
 </p>
 
