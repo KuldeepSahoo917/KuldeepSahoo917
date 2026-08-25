@@ -121,25 +121,8 @@ My goal is to become a strong **Cloud and DevOps Engineer** capable of designing
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=KuldeepSahoo917&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=E5E7EB&ring_color=8B5CF6"
-    alt="Kuldeep Sahoo GitHub Stats"
-  />
-  <img
-    width="49%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepSahoo917&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=E5E7EB&sideLabels=C4B5FD&dates=9CA3AF&stroke=312E81"
     alt="Kuldeep Sahoo GitHub Streak"
-  />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepSahoo917&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A855F7&area=true&hide_border=true"
-    width="100%"
-    alt="Kuldeep Sahoo Contribution Activity Graph"
   />
 </p>
 
