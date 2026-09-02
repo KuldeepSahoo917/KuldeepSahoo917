@@ -128,7 +128,7 @@ My goal is to become a strong **Cloud and DevOps Engineer** capable of designing
 
 ---
 
-## Contribution Snake
+```## Contribution Snake
 
 <p align="center">
   <img
