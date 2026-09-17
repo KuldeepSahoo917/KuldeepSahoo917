@@ -121,10 +121,11 @@ My goal is to become a strong **Cloud and DevOps Engineer** capable of designing
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepSahoo917&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=E5E7EB&sideLabels=C4B5FD&dates=9CA3AF&stroke=312E81"
+    src="https://herokuapp.com"
     alt="Kuldeep Sahoo GitHub Streak"
   />
 </p>
+
 
 ---
 
