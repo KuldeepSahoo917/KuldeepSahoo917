@@ -118,8 +118,6 @@ My goal is to become a strong **Cloud and DevOps Engineer** capable of designing
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <p align="center">
   <img
     width="49%"
