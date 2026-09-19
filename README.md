@@ -126,7 +126,5 @@ My goal is to become a strong **Cloud and DevOps Engineer** capable of designing
   />
 </p>
 
-
-
 ---
 
